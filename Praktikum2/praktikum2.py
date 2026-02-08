@@ -15,7 +15,7 @@ def baca_data(nama_file):
             data_dict[nim] = {"nama": nama, "nilai": int(nilai)} #masukkan dalam dictionary 
         return data_dict
     
-b#uka_data = baca_data(nama_file) #memanggil fungsi load data dan menyimpan dalam variable 
+#buka_data = baca_data(nama_file) #memanggil fungsi load data dan menyimpan dalam variable 
 #print("jumlah data terbaca", len(buka_data)) #melihat berapa data yang di load
 
 # ===========================================================
